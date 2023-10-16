@@ -3,5 +3,8 @@
         "CSES",
         "ninjaplays",
         "Selectionsort"
-    ]
+    ],
+    "files.associations": {
+        "iostream": "cpp"
+    }
 }
