@@ -1,3 +1,9 @@
+/*
+ * Name: Om Singh
+ * Reg No: 2341019519
+ * PS LINK: https://cses.fi/problemset/task/1618
+ */
+
 #include<iostream>
 #include<math.h>
 using namespace std;
